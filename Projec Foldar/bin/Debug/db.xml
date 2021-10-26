@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<Databases>  
+  <Database>  
+    <Username>userName 123456789</Username>  
+    <IP>124.222.15.7</IP>
+    <Password>123</Password>  
+  </Database>  
+  <Database>  
+    <Username>User1234</Username>  
+    <IP>124.222.333.23</IP>
+    <Password>123</Password>  
+  </Database>  
+  <Database>  
+    <Username>User?1234</Username>  
+    <IP>222.134.33.222</IP>
+    <Password>123</Password>  
+  </Database>  
+  <Database>  
+    <Username>User_0n3</Username>  
+    <IP>111.232.335.42</IP>
+    <Password>123</Password>  
+  </Database>  
+  <Database>  
+    <Username>Us3r_21m</Username>  
+    <IP>111.123.211.90</IP>
+    <Password>123</Password>  
+  </Database>  
+</Databases>
